@@ -536,7 +536,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re\/"
+                         "value":"https:\/\/app.tryeraser.com\/workspace\/4UfHdj961SdUW0b44oWE"
                         }, 
                         {
                          "name":"label",
@@ -564,7 +564,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re\/"
+                         "value":"https:\/\/app.tryeraser.com\/workspace\/4UfHdj961SdUW0b44oWE"
                         }, 
                         {
                          "name":"label",
@@ -592,7 +592,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re\/"
+                         "value":"https:\/\/app.tryeraser.com\/workspace\/4UfHdj961SdUW0b44oWE"
                         }, 
                         {
                          "name":"label",
@@ -620,7 +620,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re\/"
+                         "value":"https:\/\/app.tryeraser.com\/workspace\/4UfHdj961SdUW0b44oWE"
                         }, 
                         {
                          "name":"label",
@@ -681,7 +681,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":54,
+ "nextlayerid":59,
  "nextobjectid":8,
  "orientation":"orthogonal",
  "properties":[
